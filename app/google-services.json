@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "533241413433",
+    "firebase_url": "https://fir-img-up.firebaseio.com",
+    "project_id": "fir-img-up",
+    "storage_bucket": "fir-img-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533241413433:android:1a305ddc97bbf157",
+        "android_client_info": {
+          "package_name": "com.kangkan.example.firebaseimgup.firebaseimgup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533241413433-7u7ksq717ul0j0dqe43q7ciljncjqnjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kangkan.example.firebaseimgup.firebaseimgup",
+            "certificate_hash": "e01454c47537991429899b77d604aa1e6545a3f6"
+          }
+        },
+        {
+          "client_id": "533241413433-1ta53jn3hd2dn71pn33d8ch4e7ab6mvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp1DLPZ_JmZrxpaz0oYPhjWSFsNlyR7wc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533241413433-1ta53jn3hd2dn71pn33d8ch4e7ab6mvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
